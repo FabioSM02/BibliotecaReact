@@ -1,6 +1,6 @@
 # Biblioteca ReactJS
 
-### Objectives
+### Goals
 
 - Create a React's library that gets numbers and write the same by extense.
 
