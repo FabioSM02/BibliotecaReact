@@ -29,7 +29,7 @@
 - Install the project using git bash or zip folder, if you do in git bash type it:
 
 ```
-git clone https://github.com/FabioSM02/Proffy-NLW02
+git clone https://github.com/FabioSM02/BibliotecaReact
 ```
 
 - After copying, install all project dependencies via the terminal using:
